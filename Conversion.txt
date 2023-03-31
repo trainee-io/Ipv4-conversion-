@@ -1,0 +1,45 @@
+The decimal conversion of ipv4 address101.45.6.54 is: 101045006054
+The binary conversion of ipv4 address 101.45.6.54 is: 0b01100101001011010000011000110110
+The octal conversion of ipv4 address 101.45.6.54 is: 0x652D0636
+The hexa decimal conversion of ipv4 address 101.45.6.54 is: 0o145055006066
+ 
+The decimal conversion of ipv4 address120.6.53.2 is: 120006053002
+The binary conversion of ipv4 address 120.6.53.2 is: 0b01111000000001100011010100000010
+The octal conversion of ipv4 address 120.6.53.2 is: 0x78063502
+The hexa decimal conversion of ipv4 address 120.6.53.2 is: 0o170006065002
+ 
+The decimal conversion of ipv4 address124.43.63.3 is: 124043063003
+The binary conversion of ipv4 address 124.43.63.3 is: 0b01111100001010110011111100000011
+The octal conversion of ipv4 address 124.43.63.3 is: 0x7C2B3F03
+The hexa decimal conversion of ipv4 address 124.43.63.3 is: 0o174053077003
+ 
+The decimal conversion of ipv4 address104.65.43.3 is: 104065043003
+The binary conversion of ipv4 address 104.65.43.3 is: 0b01101000010000010010101100000011
+The octal conversion of ipv4 address 104.65.43.3 is: 0x68412B03
+The hexa decimal conversion of ipv4 address 104.65.43.3 is: 0o150101053003
+ 
+The decimal conversion of ipv4 address101.5.6.7 is: 101005006007
+The binary conversion of ipv4 address 101.5.6.7 is: 0b01100101000001010000011000000111
+The octal conversion of ipv4 address 101.5.6.7 is: 0x65050607
+The hexa decimal conversion of ipv4 address 101.5.6.7 is: 0o145005006007
+ 
+The decimal conversion of ipv4 address203.56.7.5 is: 203056007005
+The binary conversion of ipv4 address 203.56.7.5 is: 0b11001011001110000000011100000101
+The octal conversion of ipv4 address 203.56.7.5 is: 0xCB380705
+The hexa decimal conversion of ipv4 address 203.56.7.5 is: 0o313070007005
+ 
+The decimal conversion of ipv4 address187.45.7.2 is: 187045007002
+The binary conversion of ipv4 address 187.45.7.2 is: 0b10111011001011010000011100000010
+The octal conversion of ipv4 address 187.45.7.2 is: 0xBB2D0702
+The hexa decimal conversion of ipv4 address 187.45.7.2 is: 0o273055007002
+ 
+The decimal conversion of ipv4 address197.45.7.2 is: 197045007002
+The binary conversion of ipv4 address 197.45.7.2 is: 0b11000101001011010000011100000010
+The octal conversion of ipv4 address 197.45.7.2 is: 0xC52D0702
+The hexa decimal conversion of ipv4 address 197.45.7.2 is: 0o305055007002
+ 
+The decimal conversion of ipv4 address230.56.34.2 is: 230056034002
+The binary conversion of ipv4 address 230.56.34.2 is: 0b11100110001110000010001000000010
+The octal conversion of ipv4 address 230.56.34.2 is: 0xE6382202
+The hexa decimal conversion of ipv4 address 230.56.34.2 is: 0o346070042002
+ 
